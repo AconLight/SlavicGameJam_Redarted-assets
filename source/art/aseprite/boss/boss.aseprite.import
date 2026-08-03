@@ -3,17 +3,17 @@
 importer="aseprite_wizard.plugin.spriteframes"
 type="SpriteFrames"
 uid="uid://7bsqv3sy1vsu"
-path="res://.godot/imported/boss.aseprite-dc5d79307529b70fd8351af2b95a3f6b.res"
+path="res://.godot/imported/boss.aseprite-eabc7e090e559c25ba8aba9665cce891.res"
 
 [deps]
 
-source_file="res://assets/source/art/aseprite/boss.aseprite"
-dest_files=["res://.godot/imported/boss.aseprite-dc5d79307529b70fd8351af2b95a3f6b.res"]
+source_file="res://assets/source/art/aseprite/boss/boss.aseprite"
+dest_files=["res://.godot/imported/boss.aseprite-eabc7e090e559c25ba8aba9665cce891.res"]
 
 [params]
 
 layer/exclude_layers_pattern=""
-layer/only_visible_layers=false
+layer/only_visible_layers=true
 sheet/sheet_type="packed"
 sheet/sheet_columns=12
 sheet/frame_padding=0

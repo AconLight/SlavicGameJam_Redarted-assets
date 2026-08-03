@@ -1,0 +1,21 @@
+{
+	"contract": {
+		"alpha_preservation": true,
+		"background": "transparent",
+		"duplicate_merging": false,
+		"extrusion": 0,
+		"format": "PNG",
+		"frame_order": "SpriteFrames animation order, then frame index",
+		"matte_color": "none",
+		"pixel_format": "RGBA8",
+		"rotation": false,
+		"spacing": 0,
+		"trimming": false
+	},
+	"export_contract_version": 1,
+	"frame_count": 70,
+	"sheet_height": 384,
+	"sheet_width": 384,
+	"source": "res://assets/source/art/aseprite/boss/boss.aseprite",
+	"source_fingerprint": "179fbe77871b9a9e6a46a845fe67ce68"
+}
