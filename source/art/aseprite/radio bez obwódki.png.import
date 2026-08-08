@@ -2,20 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-<<<<<<< HEAD
-uid="uid://dbqmox8hi5lne"
-=======
-uid="uid://cb0db6x3ka7mu"
->>>>>>> c7253d8bc4032020e7b9dd9fc13e0f035ffb55cb
-path="res://.godot/imported/ROAD NOISE LIGHT.png-b85d61ab46fc00d471e6a84c8c4836f1.ctex"
+uid="uid://p6uov7tq0r0k"
+path="res://.godot/imported/radio bez obwódki.png-d8f62ebdcf3d804286e54eeaf847746c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/source/art/aseprite/ROAD NOISE LIGHT.png"
-dest_files=["res://.godot/imported/ROAD NOISE LIGHT.png-b85d61ab46fc00d471e6a84c8c4836f1.ctex"]
+source_file="res://assets/source/art/aseprite/radio bez obwódki.png"
+dest_files=["res://.godot/imported/radio bez obwódki.png-d8f62ebdcf3d804286e54eeaf847746c.ctex"]
 
 [params]
 

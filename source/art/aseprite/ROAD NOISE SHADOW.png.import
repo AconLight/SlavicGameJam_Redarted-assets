@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dj0g3kyxfwhdj"
+=======
+uid="uid://c67bbpfimrj32"
+>>>>>>> c7253d8bc4032020e7b9dd9fc13e0f035ffb55cb
 path="res://.godot/imported/ROAD NOISE SHADOW.png-df1aa15b227f1b0769c890612fcbada8.ctex"
 metadata={
 "vram_texture": false
